@@ -185,7 +185,7 @@ export const App = () => {
             <PureCell.Content>
               <PureCell.Main>
                 <Typography.Text view="primary-small" color="primary-inverted">
-                  Наставник на своем примерепокажет, куда инвестировать часть зарплаты
+                  Наставник на своем примере покажет, куда инвестировать часть зарплаты
                 </Typography.Text>
               </PureCell.Main>
             </PureCell.Content>
@@ -395,7 +395,7 @@ export const App = () => {
                 <div className={appSt.grid}>
                   <div className={appSt.box3Inside2}>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="positive">
-                      +17.3%
+                      +25,4%
                     </Typography.Text>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="secondary-inverted">
                       за год
@@ -403,10 +403,10 @@ export const App = () => {
                   </div>
                   <div className={appSt.box3Inside2}>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="primary-inverted">
-                      17
+                      3
                     </Typography.Text>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="secondary-inverted">
-                      сделок / мес.
+                      сделки / мес.
                     </Typography.Text>
                   </div>
                 </div>
@@ -447,7 +447,7 @@ export const App = () => {
                 <div className={appSt.grid}>
                   <div className={appSt.box3Inside2}>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="positive">
-                      +15.1%
+                      +32,1%
                     </Typography.Text>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="secondary-inverted">
                       за год
