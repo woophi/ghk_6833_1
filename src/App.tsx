@@ -428,7 +428,7 @@ export const App = () => {
                     view="primary-small"
                     color="primary-inverted"
                   >
-                    Все сделки в реальном времени
+                    Все сделки в реальном времени — показываю и объясняю
                   </Typography.Text>
                 </div>
 
@@ -455,7 +455,7 @@ export const App = () => {
                   </div>
                   <div className={appSt.box3Inside2}>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="primary-inverted">
-                      12
+                      26
                     </Typography.Text>
                     <Typography.Text tag="p" defaultMargins={false} view="primary-small" color="secondary-inverted">
                       сделок / мес.
